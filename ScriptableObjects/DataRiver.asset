@@ -1,0 +1,26 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 3df629f15243b1242818806ee1b3ce5c, type: 3}
+  m_Name: DataRiver
+  m_EditorClassIdentifier: 
+  fishes:
+  - {fileID: 6227732874905092414, guid: b08e8080b4e471443b8db1f5bb1001e0, type: 3}
+  - {fileID: 9090255462135119081, guid: 8dbf2381a196e7f488a9226d76d87b71, type: 3}
+  - {fileID: 3894907518316450342, guid: ecd3c6ad8b3680f4c8e8700a8279c5aa, type: 3}
+  percents:
+  - 0.1
+  - 0.2
+  - 0.7
+  clips:
+  - {fileID: 8300000, guid: 851beb144046b804785396d91e2d0790, type: 3}
+  - {fileID: 8300000, guid: 851beb144046b804785396d91e2d0790, type: 3}
+  - {fileID: 8300000, guid: 209c2c29d7285734b80e677264da7197, type: 3}

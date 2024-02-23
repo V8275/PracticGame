@@ -1,0 +1,2 @@
+Build path: D:/UnityProjects/FishItPractic/Builds/Web/v26
+Build number: 59
